@@ -5,4 +5,4 @@ App for tracking expenses
 ![Screenshots](./src/assets/screenshot-one.png)
 
 # To view app
-[Click here](https://expense-tracker-kappa-sooty.vercel.app/)
+[Click here](https://expense-tracker-kappa-sooty.vercel.app/){:target="_blank"}
