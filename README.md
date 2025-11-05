@@ -2,6 +2,6 @@
 App for tracking expenses
 
 # Screenshots
-![Screenshots](./src/assets/images/screenshot-one.png)
+![Screenshots](./src/assets/screenshot-one.png)
 
 
