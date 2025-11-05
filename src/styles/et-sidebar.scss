@@ -1,0 +1,25 @@
+.sidebar-menu-list {
+    .menu-item {
+        &:hover {
+            .menu-button {
+                font-weight: bold;
+            }
+        }
+
+        .menu-button {
+            color: #333;
+        }
+    }
+}
+
+.sidebar-header {
+    border-bottom: 1px solid #e7e3e4;
+    padding: 8px 12px;
+}
+
+.sidebar-content {
+    border-radius: 4px;
+    padding: 12px;
+    height: calc(100vh - 45px);
+    overflow: scroll;
+}
